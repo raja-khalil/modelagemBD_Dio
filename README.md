@@ -55,7 +55,7 @@ Principais relacionamentos:
 
 Para a criação dos modelos, foram utilizadas as seguintes ferramentas:
 - **MySQL Workbench**: Para a implementação e execução do modelo.
-- **Draw.io e dbdesigner.net**: Para o design inicial e representação visual dos diagramas ER.
+
 
 ### 3.1 Instalando o MySQL Workbench
 
